@@ -257,7 +257,7 @@ select {
   background-color: #181715;
   background-image:
     linear-gradient(to top, rgba(11, 11, 11, 0.6), transparent),
-    url("assets/hero.png");
+    url("assets/hero.jpg");
 
   background-position: center;
   background-size: cover;
@@ -449,19 +449,19 @@ select {
 
   background-image:
     linear-gradient(rgba(0, 0, 0, 0.05), rgba(0, 0, 0, 0.25)),
-    url("assets/corte-1.png");
+    url("assets/corte-1.jpg");
 }
 
 .g2 {
   background-image:
     linear-gradient(rgba(0, 0, 0, 0.05), rgba(0, 0, 0, 0.25)),
-    url("assets/corte-2.png");
+    url("assets/corte-2.jpg");
 }
 
 .g3 {
   background-image:
     linear-gradient(rgba(0, 0, 0, 0.05), rgba(0, 0, 0, 0.25)),
-    url("assets/corte-3.png");
+    url("assets/corte-3.jpg");
 }
 
 .g4 {
@@ -469,7 +469,7 @@ select {
 
   background-image:
     linear-gradient(rgba(0, 0, 0, 0.05), rgba(0, 0, 0, 0.25)),
-    url("assets/corte-4.png");
+    url("assets/corte-4.jpg");
 }
 
 .booking {
